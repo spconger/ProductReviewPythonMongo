@@ -1,0 +1,2 @@
+9/4/2016
+This program is a simple experiment in reading a mongodb in python. It creates some data classes to read from and insert products and product reviews into the database. It uses tkinter to create and entry form for reviews.
